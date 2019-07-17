@@ -1,0 +1,11 @@
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\bin\Debug\netcoreapp2.0\ValidadorCartao.deps.json
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\bin\Debug\netcoreapp2.0\ValidadorCartao.runtimeconfig.json
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\bin\Debug\netcoreapp2.0\ValidadorCartao.runtimeconfig.dev.json
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\bin\Debug\netcoreapp2.0\ValidadorCartao.dll
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\bin\Debug\netcoreapp2.0\ValidadorCartao.pdb
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\obj\Debug\netcoreapp2.0\ValidadorCartao.csprojResolveAssemblyReference.cache
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\obj\Debug\netcoreapp2.0\ValidadorCartao.csproj.CoreCompileInputs.cache
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\obj\Debug\netcoreapp2.0\ValidadorCartao.AssemblyInfoInputs.cache
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\obj\Debug\netcoreapp2.0\ValidadorCartao.AssemblyInfo.cs
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\obj\Debug\netcoreapp2.0\ValidadorCartao.dll
+c:\users\gxvit\source\repos\ValidadorCartao\ValidadorCartao\obj\Debug\netcoreapp2.0\ValidadorCartao.pdb
